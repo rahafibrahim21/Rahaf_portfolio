@@ -1,6 +1,55 @@
   ---
-  layout: project
-  title: "اسم المشروع"
+Project: Istaqim
   ---
-  
-  وصف المشروع وتفاصيله.
+In this project, I was responsible for the artificial intelligence part of the Istaqim application, which aims to help Muslims correct their prayer.
+
+Details of the work:
+Video Analysis using AI:
+
+I developed the system that analyzes the videos uploaded by users for their prayer performance.
+
+Computer vision techniques were used to detect the movements during the prayer (like bowing and prostration) and compare the user’s performance with the ideal performance.
+
+Error Detection:
+
+I developed error detection algorithms for the prayer movements using artificial intelligence.
+
+These algorithms identify whether the movements are performed correctly or if there are any errors that need correction.
+
+Error Correction:
+
+After detecting errors, I developed a suggestion system to guide users in correcting their movements, helping them improve their performance based on accurate analysis.
+
+Machine Learning:
+
+Machine learning techniques were applied to improve the accuracy of movement analysis over time, enhancing the app’s ability to recognize movements in various scenarios.
+
+Technologies used:
+OpenCV and TensorFlow: for implementing computer vision and machine learning techniques.
+
+Python: for developing the algorithms related to analysis and correction.
+
+This role was pivotal in enhancing the accuracy and efficiency of the app in providing precise and helpful corrections for users.
+
+YOLO Algorithm Usage:
+In the project, I used the YOLO (You Only Look Once) algorithm as part of the AI system to detect and track movements during prayer with high precision.
+
+Object Recognition:
+
+YOLO was used to detect objects in the videos uploaded by users, such as hands, knees, and prostrations, by analyzing each frame quickly and accurately.
+
+Movement Time Analysis:
+
+I applied YOLO to monitor real-time movements during the prayer, helping identify errors and ensuring that the movements are executed correctly.
+
+Performance Enhancement:
+
+Thanks to the speed of the YOLO algorithm, we were able to process videos in real-time while maintaining high accuracy in error detection.
+
+Integration with Other Algorithms:
+
+The YOLO algorithm was integrated with other recognition algorithms to provide a comprehensive report on prayer performance and analyze movements thoroughly.
+
+This use of the YOLO algorithm was a crucial component in enabling the application to offer an interactive and real-time experience for its users.
+
+
