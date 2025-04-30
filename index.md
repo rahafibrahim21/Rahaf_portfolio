@@ -13,7 +13,7 @@
   </ul>
   
   <h4>Project Screenshots:</h4>
-  <img src="path/to/your/screenshot.jpg" alt="Istaqim Application" width="400">
+  <img src="file:///Users/rahafalghuraibi/Downloads/Frame%20461.png" alt="Istaqim Application" width="400">
   
   <p><a href="https://github.com/rahafibrahim21/Rahaf_portfolio" target="_blank">For more details on GitHub</a></p>
 </section>
